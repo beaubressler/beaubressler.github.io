@@ -22,7 +22,9 @@ This project studies how trade protection shaped labor markets and industrial de
 **Globalization and the Reach of Multinationals: Implications for Portfolio Exposures, Capital Flows, and Home Bias**  
 *(with Carol Bertaut and Stephanie Curcuru)*  
 *Journal of Accounting and Finance*, 2021
+
 *Abstract:*
+
 The growing use of low-tax jurisdictions as locations for firm headquarters, proliferation of offshore
 financing vehicles, and growing size, number, and geographic diversity of multinational firms have clouded
 the view of capital flows and investor exposures from standard sources such as the IMF Balance of
@@ -36,9 +38,14 @@ when we distribute exposure according to the geographic distributions of firm-le
 implications for conclusions we draw about the factors influencing capital flows, in particular those to
 emerging markets.
 
+[Read here](https://doi.org/10.33423/jaf.v21i5.4738)
+
 **Globalization and the Geography of Capital Flows**  
 *(with Carol Bertaut and Stephanie Curcuru)*  
 *FEDS Notes*, September 2019
+
 *Abstract:*
+
 This paper documents how residence-based portfolio statistics increasingly misrepresent true economic exposures in global capital markets due to the growing role of multinational firms, offshore financial centers, and investment funds. Using security-level data from the U.S. Treasury International Capital system, the authors reallocate U.S. cross-border portfolio holdings from a legal-residence basis to a nationality (economic exposure) basis. They show that nearly 30% of U.S. foreign portfolio investments—approximately $3.5 trillion—are misclassified under standard statistics, with major implications for understanding U.S. exposures to emerging markets, interpreting capital flow volatility, and assessing the effectiveness of capital controls. The findings suggest that traditional balance-of-payments metrics significantly understate the true global financial linkages between countries.
+
 [Read here](https://doi.org/10.17016/2380-7172.2446)
