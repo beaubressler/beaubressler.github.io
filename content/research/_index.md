@@ -13,18 +13,16 @@ This paper studies the long-run neighborhood effects of one of the most ambitiou
 
 
 **Trade, Protection, and Structural Transformation in the Late 19th Century United States**  
-This project studies how trade protection shaped labor markets and industrial development in the post-Civil War United States.
 
 ---
 
 ## Pre-PhD Publications
 
-**Globalization and the Reach of Multinationals: Implications for Portfolio Exposures, Capital Flows, and Home Bias**  
+[**Globalization and the Reach of Multinationals: Implications for Portfolio Exposures, Capital Flows, and Home Bias**](https://doi.org/10.33423/jaf.v21i5.4738)
 *(with Carol Bertaut and Stephanie Curcuru)*  
 *Journal of Accounting and Finance*, 2021
-
-*Abstract:*
-
+<details>
+  <summary style="color:darkblue;"><strong>Abstract (click to expand)</strong></summary>
 The growing use of low-tax jurisdictions as locations for firm headquarters, proliferation of offshore
 financing vehicles, and growing size, number, and geographic diversity of multinational firms have clouded
 the view of capital flows and investor exposures from standard sources such as the IMF Balance of
@@ -37,15 +35,15 @@ understated by about a third. Estimates of the international exposures of U.S. i
 when we distribute exposure according to the geographic distributions of firm-level sales. Our results have
 implications for conclusions we draw about the factors influencing capital flows, in particular those to
 emerging markets.
+</details>
 
-[Read here](https://doi.org/10.33423/jaf.v21i5.4738)
+<br>
+<br>
 
-**Globalization and the Geography of Capital Flows**  
+[**Globalization and the Geography of Capital Flows**](https://doi.org/10.17016/2380-7172.2446)
 *(with Carol Bertaut and Stephanie Curcuru)*  
 *FEDS Notes*, September 2019
-
-*Abstract:*
-
+<details>
+  <summary style="color:darkblue;"><strong>Abstract (click to expand)</strong></summary>
 This paper documents how residence-based portfolio statistics increasingly misrepresent true economic exposures in global capital markets due to the growing role of multinational firms, offshore financial centers, and investment funds. Using security-level data from the U.S. Treasury International Capital system, the authors reallocate U.S. cross-border portfolio holdings from a legal-residence basis to a nationality (economic exposure) basis. They show that nearly 30% of U.S. foreign portfolio investments—approximately $3.5 trillion—are misclassified under standard statistics, with major implications for understanding U.S. exposures to emerging markets, interpreting capital flow volatility, and assessing the effectiveness of capital controls. The findings suggest that traditional balance-of-payments metrics significantly understate the true global financial linkages between countries.
-
-[Read here](https://doi.org/10.17016/2380-7172.2446)
+</details>
