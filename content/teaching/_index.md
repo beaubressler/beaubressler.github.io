@@ -18,4 +18,3 @@ title: "Teaching"
 - *World Economic History Since the Industrial Revolution*  (Prof. Christopher Meissner)
 - *Public Economics* (Prof. Marianne Bitler)
 - [*Economics Honors Thesis*](https://giovanniperi.ucdavis.edu/honor-thesis.html) (Prof. Giovanni Peri)
-
