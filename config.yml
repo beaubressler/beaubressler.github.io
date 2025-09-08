@@ -21,7 +21,7 @@ menu:
       url: cv.pdf
 
 params:
-  description: ""
+  description: "Beau Bressler - PhD candidate in Economics at UC Davis specializing in urban economics, labor economics, and economic history."
   author: "Beau Bressler"
   DateFormat: "January 2006"
   defaultTheme: light
