@@ -51,8 +51,8 @@ params:
     title: "Beau Bressler"
     subtitle: "Hello! I am a PhD candidate in Economics at UC Davis. My main research interests are in urban economics, labor economics, and economic history."
     imageUrl: "picture.jpeg"
-    imageWidth: 160
-    imageHeight: 160
+    imageWidth: 180
+    imageHeight: 200
     buttons:
       - name: Research
         url: research/
