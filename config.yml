@@ -49,7 +49,7 @@ params:
   profileMode:
     enabled: true
     title: "Beau Bressler"
-    subtitle: "Hello! I am a PhD candidate in Economics at UC Davis. I am an applied microeconomist working at the intersection of urban economics, economic history, labor and public economics."
+    subtitle: "Hello! I am a PhD candidate in Economics at UC Davis. I am an applied microeconomist working at the intersection of urban economics, economic history, labor and public economics. My job market paper studies the long-run effects of the American public housing program on neighborhoods."
     imageUrl: "picture.jpeg"
     imageWidth: 250
     imageHeight: 278

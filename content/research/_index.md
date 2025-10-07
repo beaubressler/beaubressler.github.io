@@ -2,15 +2,18 @@
 title: "Research"
 ---
 
+## Working Papers
+
+**Public Housing Construction and the Transformation of American Neighborhoods** *(Draft coming soon)*
+
+
+**The Persistent Consequences of Urban Planning Assistance** *(with Tianfang Cui)* *(Draft coming soon)*
+
+---
+
 ## Work in Progress
 
-**Public Housing Construction and the Transformation of American Neighborhoods**  
-
-
-**The Persistent Consequences of Urban Planning Assistance** *(with Tianfang Cui)*  
-
-
-**Trade, Protection, and Structural Transformation in the Late 19th Century United States**  
+**Trade, Protection, and Structural Transformation in the Late 19th Century United States**
 
 ---
 
