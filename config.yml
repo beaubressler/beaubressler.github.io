@@ -49,10 +49,10 @@ params:
   profileMode:
     enabled: true
     title: "Beau Bressler"
-    subtitle: "Hello! I am a PhD candidate in Economics at UC Davis. My main research interests are in urban economics, economic history, labor economics, and public economics."
+    subtitle: "Hello! I am a PhD candidate in Economics at UC Davis. I am an applied microeconomist working at the intersection of urban economics, economic history, labor and public economics."
     imageUrl: "picture.jpeg"
-    imageWidth: 180
-    imageHeight: 200
+    imageWidth: 250
+    imageHeight: 278
     buttons:
       - name: Research
         url: research/
