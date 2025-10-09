@@ -2,6 +2,7 @@ baseURL: "https://beaubressler.github.io"
 title: "Beau Bressler"
 theme: "PaperMod"
 
+env: production
 enableInlineShortcodes: true
 enableRobotsTXT: true
 
