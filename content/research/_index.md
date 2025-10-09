@@ -4,7 +4,7 @@ title: "Research"
 
 ## Working Papers
 
-**Public Housing Construction and the Transformation of American Neighborhoods** *(Draft coming soon)*
+**Public Housing Construction and the Transformation of American Neighborhoods** **(Job Market Paper)** *(Draft coming soon)*
 
 
 **The Persistent Consequences of Urban Planning Assistance** *(with Tianfang Cui)* *(Draft coming soon)*
