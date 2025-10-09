@@ -23,6 +23,8 @@ menu:
 params:
   description: "Beau Bressler - PhD candidate in Economics at UC Davis specializing in urban economics, labor economics, and economic history."
   author: "Beau Bressler"
+  images:
+    - picture.jpeg
   DateFormat: "January 2006"
   defaultTheme: light
   hideFooter: false
