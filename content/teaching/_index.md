@@ -8,6 +8,8 @@ title: "Teaching"
 
 **Teaching Award:** *UC Davis Economics Department Outstanding TA Award (2021)*
 
+[Instructor Summaries](InstructorSummaries_scores.pdf)
+
 *Courses:*
 
 - *Introduction to Microeconomics* (Prof. Bagher Modjtahedi)
@@ -17,4 +19,4 @@ title: "Teaching"
 - *World Economic History Before the Industrial Revolution*  (Prof. Greg Clark)
 - *World Economic History Since the Industrial Revolution*  (Prof. Christopher Meissner)
 - *Public Economics* (Prof. Marianne Bitler)
-- [*Economics Honors Thesis*](https://giovanniperi.ucdavis.edu/honor-thesis.html) (Prof. Giovanni Peri)
+- [*Economics Honors Thesis*](https://giovanniperi.ucdavis.edu/honors-thesis.html) (Prof. Giovanni Peri)
