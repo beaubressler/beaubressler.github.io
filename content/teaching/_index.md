@@ -4,9 +4,9 @@ title: "Teaching"
 
 ### University of California, Davis
 
-#### **Teaching Assistant** ([Student Evaluations](/InstructorSummaries_scores.pdf)) (2020-2025)
+**Teaching Assistant** ([Student Evaluations](/InstructorSummaries_scores.pdf)) (2020-2025)
 
-**Teaching Award:** *UC Davis Economics Department Outstanding TA Award (2021)*
+*Teaching Award: UC Davis Economics Department Outstanding TA Award (2021)*
 
 *Courses:*
 
