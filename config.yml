@@ -52,7 +52,7 @@ params:
   profileMode:
     enabled: true
     title: "Beau Bressler"
-    subtitle: "Hello! I am a Ph.D. candidate in the <a href=\"https://economics.ucdavis.edu/\" target=\"_blank\">Department of Economics</a> at the University of California, Davis. I am an applied microeconomist working at the intersection of <strong>urban economics, economic history, labor</strong> and <strong>public economics</strong>.<br><br><strong>I am on the 2025/2026 job market.</strong><br><br>My job market paper studies the long-run effects of the American public housing program on neighborhoods."
+    subtitle: "Hello! I am a Ph.D. candidate in the <a href=\"https://economics.ucdavis.edu/\" target=\"_blank\">Department of Economics</a> at the University of California, Davis. I am an applied microeconomist working at the intersection of <strong>urban economics, economic history, labor</strong> and <strong>public economics</strong>.<br><br><strong>I am on the 2025/2026 job market.</strong><br><br>My current research focuses on the effects of 20th century American urban policies. My job market paper studies the long-run effects of the American public housing program on neighborhoods."
     imageUrl: "picture.jpg"
     imageWidth: 350
     imageHeight: 467
