@@ -25,7 +25,7 @@ params:
   description: "Beau Bressler - PhD candidate in Economics at UC Davis specializing in urban economics, labor economics, and economic history."
   author: "Beau Bressler"
   images:
-    - picture.jpeg
+    - picture.jpg
   DateFormat: "January 2006"
   defaultTheme: light
   hideFooter: false
@@ -53,7 +53,7 @@ params:
     enabled: true
     title: "Beau Bressler"
     subtitle: "Hello! I am a Ph.D. candidate in the <a href=\"https://economics.ucdavis.edu/\" target=\"_blank\">Department of Economics</a> at the University of California, Davis. I am an applied microeconomist working at the intersection of <strong>urban economics, economic history, labor</strong> and <strong>public economics</strong>.<br><br><strong>I am on the 2025/2026 job market.</strong><br><br>My job market paper studies the long-run effects of the American public housing program on neighborhoods."
-    imageUrl: "picture.jpeg"
+    imageUrl: "picture.jpg"
     imageWidth: 350
     imageHeight: 389
     buttons:
@@ -74,6 +74,7 @@ params:
 
   assets:
     disableScrollBarStyle: true
+    apple_touch_icon: apple-touch-icon.jpg
 
   cover:
     hiddenInList: false
