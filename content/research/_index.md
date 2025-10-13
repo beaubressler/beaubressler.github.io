@@ -7,11 +7,13 @@ title: "Research"
 **Public Housing Construction and the Transformation of American Neighborhoods** **(Job Market Paper)** *(Draft coming soon)*
 
 
-**The Persistent Consequences of Urban Planning Assistance** *(with Tianfang Cui)* *(Draft coming soon)*
+**Taming the Growth Machine: The Long-Run Consequences of Federal Urban Planning Assistance** *(with Tianfang Cui)* *(Draft coming soon)*
 
 ---
 
 ## Work in Progress
+
+**The Effects of the H-1B Program on Small Firms: Evidence From Visa Lotteries** *(with Giovanni Peri, Kevin Shih, Parag Mahajan, and Nicolas Morales)*
 
 **Trade, Protection, and Structural Transformation in the Late 19th Century United States**
 
