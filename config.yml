@@ -3,6 +3,10 @@ title: "Beau Bressler"
 theme: "PaperMod"
 
 env: production
+
+services:
+  googleAnalytics:
+    ID: G-4T9LT79JN5
 enableInlineShortcodes: true
 enableRobotsTXT: true
 
