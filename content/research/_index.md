@@ -4,7 +4,11 @@ title: "Research"
 
 ## Working Papers
 
-**Public Housing Construction and the Transformation of American Neighborhoods** **(Job Market Paper)** *(Draft coming soon)*
+[**Building Segregation: The Long-Run Neighborhood Effects of American Public Housing**](/papers/public_housing_neighborhoods/jmp.pdf) **(Job Market Paper)**
+<details>
+  <summary style="color:darkblue;"><strong>Abstract (click to expand)</strong></summary>
+This paper examines the long-term neighborhood effects of the American public housing program, one of the largest and most controversial American urban policies of the 20th century. I construct a new national dataset tracking the locations, completion dates, and characteristics of over 1 million public housing units built between 1935 and 1973, linked to neighborhood-level data from 1930 to 2010. I first show that public housing projects were systematically targeted towards initially poorer, more populated neighborhoods with higher Black population shares, reflecting the program's slum clearance goals and racialized site selection politics. Using a stacked matched difference-in-differences approach, I estimate causal effects of public housing construction on neighborhood change by comparing treated neighborhoods to matched controls within the same county based on pre-treatment characteristics that predict placement. Public housing neighborhoods experienced large, persistent increases in Black population and population shares and substantial declines in median incomes and rents. Geographic spillovers to nearby neighborhoods were limited: median incomes declined modestly, but demographic composition showed little change on average. I find evidence consistent with neighborhood tipping dynamics: neighborhoods with initial Black shares in a plausible tipping range saw substantial white population outflows in response to public housing construction. Linking to modern mobility data, I show that children from low-income families who grew up in public housing neighborhoods experienced significantly lower rates of upward mobility. These findings demonstrate that, despite intentions of slum clearance and neighborhood revitalization, public housing reinforced existing patterns of economic and racial segregation and reduced long-run economic opportunity, though effects were largely confined to project neighborhoods themselves.
+</details>
 
 
 **Taming the Growth Machine: The Long-Run Consequences of Federal Urban Planning Assistance** *(with Tianfang Cui)* *(Draft coming soon)*
