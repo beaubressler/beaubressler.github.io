@@ -22,6 +22,15 @@ These findings demonstrate that, despite intentions of slum clearance and neighb
 <br>
 
 **Taming the Growth Machine: The Long-Run Consequences of Federal Urban Planning Assistance** *(with Tianfang Cui)* *(Draft coming soon)*
+<details>
+  <summary style="color:darkblue;"><strong>Abstract (click to expand)</strong></summary>
+We study how the federal Urban Planning Assistance Program, which subsidized growing communities in the 1960s to hire urban planners to draft land-use plans, affected housing supply.
+Using newly digitized records merged with panel data across municipalities on housing and zoning outcomes, we exploit eligibility thresholds and capacity to approve funds across state agencies to identify effects.
+Planning assistance caused municipalities to build 20% fewer housing units per decade over the 50 years that followed.
+Regulatory innovation steered construction in assisted areas away from apartments and toward larger single-family homes.
+Textual evidence related to zoning and development politics further shows that, since the 1980s, assisted communities have disincentivized housing supply by passing on development costs to developers.
+These findings suggest that federal intervention in planning helped institutionalize practices that complicate community growth, with subsequent consequences for national housing affordability.
+</details>
 
 ---
 
