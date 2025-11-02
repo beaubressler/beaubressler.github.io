@@ -3,10 +3,7 @@ title: "Beau Bressler"
 theme: "PaperMod"
 
 env: production
-
-services:
-  googleAnalytics:
-    ID: G-4T9LT79JN5
+googleAnalytics: G-4T9LT79JN5
 enableInlineShortcodes: true
 enableRobotsTXT: true
 
@@ -26,6 +23,7 @@ menu:
       url: cv.pdf
 
 params:
+  googleAnalyticsID: G-4T9LT79JN5
   description: "Beau Bressler - PhD candidate in Economics at UC Davis specializing in urban economics, labor economics, and economic history."
   author: "Beau Bressler"
   images:
