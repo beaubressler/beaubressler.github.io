@@ -21,7 +21,7 @@ These findings demonstrate that, despite intentions of slum clearance and neighb
 <br>
 <br>
 
-**Taming the Growth Machine: The Long-Run Consequences of Federal Urban Planning Assistance** *(with Tianfang Cui)* *(Draft coming soon)*
+[**Taming the Growth Machine: The Long-Run Consequences of Federal Urban Planning Assistance**](/papers/urban_planning_assistance/draft.pdf) *(with Tianfang Cui)* [[Online Appendix]](/papers/urban_planning_assistance/appendix.pdf)
 <details>
   <summary style="color:darkblue;"><strong>Abstract (click to expand)</strong></summary>
 We study how the federal Urban Planning Assistance Program, which subsidized growing communities in the 1960s to hire urban planners to draft land-use plans, affected housing supply.
