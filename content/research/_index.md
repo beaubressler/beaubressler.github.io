@@ -5,6 +5,9 @@ title: "Research"
 ## Working Papers
 
 [**Building Segregation: The Long-Run Neighborhood Effects of American Public Housing**](/papers/public_housing_neighborhoods/jmp.pdf) **(Job Market Paper)**
+
+**Featured In:** [Marginal Revolution](https://marginalrevolution.com/marginalrevolution/2025/11/public-housing-and-economic-opportunity.html)
+
 <details>
   <summary style="color:darkblue;"><strong>Abstract (click to expand)</strong></summary>
 This paper studies the long-term neighborhood effects of the American public housing program, one of the largest and most controversial American urban policies of the 20th century.

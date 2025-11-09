@@ -19,6 +19,12 @@ editPost:
 
 ---
 
+##### Featured In
+
++ [Marginal Revolution](https://marginalrevolution.com/marginalrevolution/2025/11/public-housing-and-economic-opportunity.html)
+
+---
+
 ##### Abstract
 
 This paper studies the long-term neighborhood effects of the American public housing program, one of the largest and most controversial American urban policies of the 20th century.
