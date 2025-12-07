@@ -34,6 +34,8 @@ Textual evidence related to zoning and development politics further shows that, 
 These findings suggest that federal intervention in planning helped institutionalize practices that complicate community growth, with subsequent consequences for national housing affordability.
 </details>
 
+**Featured In:** [Marginal Revolution](https://marginalrevolution.com/marginalrevolution/2025/12/planning-sentences-to-ponder.html)
+
 ---
 
 ## Work in Progress
