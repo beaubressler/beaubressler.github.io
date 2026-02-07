@@ -20,6 +20,7 @@ These findings demonstrate that mid-century public housing, despite intentions o
 
 **Featured In:** [Marginal Revolution](https://marginalrevolution.com/marginalrevolution/2025/11/public-housing-and-economic-opportunity.html)
 
+<br>
 
 [**Taming the Growth Machine: The Long-Run Consequences of Federal Urban Planning Assistance**](/papers/urban_planning_assistance/draft.pdf) *(with [Tianfang Cui](https://www.tom-cui.com/))* [[Online Appendix]](/papers/urban_planning_assistance/appendix.pdf)
 <details>
@@ -44,6 +45,7 @@ These findings suggest that federal intervention in planning helped institutiona
 This paper studies whether strengthening rent control reduces housing quality, and through what margins. I study this question using New York's 2019 Housing Stability and Tenant Protection Act (HSTPA), which eliminated vacancy decontrol and sharply reduced landlords' ability to recover capital costs through rent increases. Using building-level data on housing code violations, tenant complaints, and building permits in a difference-in-differences design, I estimate the effect of HSTPA on maintenance and investment behavior. I find that housing quality declined after HSTPA: hazardous violations increased by 20%, tenant complaints increased by 8%, and violations took 18% longer to resolve. In contrast, building permit activity was unchanged, suggesting little effect on major capital investment. These findings provide causal evidence that strengthening rent control reduces housing quality through reduced routine maintenance.
 </details>
 
+<br>
 
 **The Effects of the H-1B Program on Small Firms: Evidence From Visa Lotteries** *(with Giovanni Peri, Kevin Shih, Parag Mahajan, and Nicolas Morales)*
 
@@ -72,6 +74,7 @@ implications for conclusions we draw about the factors influencing capital flows
 emerging markets.
 </details>
 
+<br>
 
 [**Globalization and the Geography of Capital Flows**](https://doi.org/10.17016/2380-7172.2446)
 *(with Carol Bertaut and Stephanie Curcuru)*  
