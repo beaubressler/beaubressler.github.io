@@ -35,17 +35,17 @@ These findings suggest that federal intervention in planning helped institutiona
 
 **Featured In:** [Marginal Revolution](https://marginalrevolution.com/marginalrevolution/2025/12/planning-sentences-to-ponder.html)
 
----
+<br>
 
-## Work in Progress
-
-**Does Rent Control Affect Housing Quality? Evidence from New York City**
+[**Does Rent Control Affect Housing Quality? Evidence from New York City**](/papers/rent_control_quality/hstpa_investment.pdf)
 <details>
   <summary style="color:darkblue;"><strong>Abstract (click to expand)</strong></summary>
 This paper studies whether strengthening rent control reduces housing quality. I study New York's 2019 Housing Stability and Tenant Protection Act (HSTPA), which eliminated vacancy decontrol and sharply reduced landlords' ability to recover capital costs through rent increases. Using building-level panel data on housing code violations, tenant complaints, and building permits in a difference-in-differences design, I estimate the effect of HSTPA on maintenance and investment behavior. I find that housing quality declined after HSTPA: immediately hazardous violations increased by 37%, or approximately 23,000 additional violations per year, tenant complaints increased by 12%, and violations took 34% longer to resolve. Building permit activity also declined by 27%. These effects are sharply unequal: hazardous violations increased three to four times more in lower-income and predominantly non-white neighborhoods. These findings provide causal evidence that landlords reduced both routine maintenance and capital investment in response, with the costs falling disproportionately on the communities rent control is intended to protect.
 </details>
 
-<br>
+---
+
+## Work in Progress
 
 **The Effects of the H-1B Program on Small Firms: Evidence From Visa Lotteries** *(with Giovanni Peri, Kevin Shih, Parag Mahajan, and Nicolas Morales)*
 
