@@ -1,5 +1,6 @@
 ---
 title: "Research"
+description: "Working papers, work in progress, and publications by Beau Bressler on housing, urban policy, land use regulation, and economic history."
 ---
 
 ## Working Papers

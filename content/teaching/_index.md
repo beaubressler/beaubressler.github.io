@@ -1,5 +1,6 @@
 ---
 title: "Teaching"
+description: "Teaching experience, course assistance, student evaluations, and teaching awards for Beau Bressler."
 ---
 
 ### University of California, Davis
