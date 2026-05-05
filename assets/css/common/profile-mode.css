@@ -29,6 +29,7 @@
 
 .buttons {
     flex-wrap: wrap;
+    align-items: center;
 }
 
 .button {
@@ -44,4 +45,8 @@
 
 .button:hover {
     background: var(--lightcolor);
+}
+
+.profile .buttons button#theme-toggle {
+    margin: 6px 12px 6px 0px;
 }

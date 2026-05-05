@@ -8,16 +8,16 @@
     --radius: 8px;
     --theme: rgb(255, 255, 255);
     --entry: rgb(255, 255, 255);
-    --primary: rgb(30, 30, 30);
-    --secondary: rgb(108, 108, 108);
-    --tertiary: rgb(214, 214, 214);
-    --gray: rgb(165, 165, 165);
-    --content: rgb(30, 30, 30);
-    --code-block-bg: rgb(28, 29, 33);
-    --code-bg: rgb(245, 245, 245);
-    --border: rgb(238, 238, 238);
-    --darkcolor: #6a7ba2;
-    --lightcolor: #cbd1de;
+    --primary: rgb(24, 28, 33);
+    --secondary: rgb(99, 105, 113);
+    --tertiary: rgb(222, 227, 234);
+    --gray: rgb(140, 147, 156);
+    --content: rgb(30, 34, 39);
+    --code-block-bg: rgb(23, 26, 31);
+    --code-bg: rgb(247, 248, 250);
+    --border: rgb(230, 234, 239);
+    --darkcolor: #315f8c;
+    --lightcolor: #e3edf7;
     --semibold: 500;
     --homesize: 16px;
     --textsize: 18px;
@@ -31,15 +31,18 @@
 }
 
 .dark {
-    --theme: rgb(29, 30, 32);
-    --entry: rgb(46, 46, 51);
-    --primary: rgb(218, 218, 219);
-    --secondary: rgb(155, 156, 157);
-    --tertiary: rgb(65, 66, 68);
-    --content: rgb(196, 196, 197);
-    --code-block-bg: rgb(46, 46, 51);
-    --code-bg: rgb(55, 56, 62);
-    --border: rgb(51, 51, 51);
+    --theme: rgb(16, 20, 24);
+    --entry: rgb(23, 28, 34);
+    --primary: rgb(216, 222, 231);
+    --secondary: rgb(150, 160, 174);
+    --tertiary: rgb(42, 51, 61);
+    --gray: rgb(137, 149, 164);
+    --content: rgb(199, 208, 219);
+    --code-block-bg: rgb(11, 15, 20);
+    --code-bg: rgb(21, 26, 32);
+    --border: rgb(41, 50, 59);
+    --darkcolor: #82a9d6;
+    --lightcolor: #233244;
 }
 
 .list {

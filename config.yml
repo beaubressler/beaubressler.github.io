@@ -36,7 +36,7 @@ params:
   hideFooter: false
   footer:
     custom: 'Inspired by <a href="https://pascalmichaillat.org" target="_blank">Pascal Michaillat</a>' 
-  disableThemeToggle: true
+  disableThemeToggle: false
   ShowShareButtons: false
   ShowReadingTime: false
   disableSpecial1stPost: true

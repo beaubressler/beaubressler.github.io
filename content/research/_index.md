@@ -7,7 +7,7 @@ description: "Working papers, work in progress, and publications by Beau Bressle
 
 [**Building Segregation: The Long-Run Neighborhood Effects of American Public Housing**](/papers/public_housing_neighborhoods/jmp.pdf) **(Job Market Paper)**
 <details>
-  <summary style="color:darkblue;"><strong>Abstract (click to expand)</strong></summary>
+  <summary><strong>Abstract (click to expand)</strong></summary>
 This paper studies the long-term neighborhood effects of the American public housing program, one of the largest and most controversial American urban policies of the 20th century.
 I construct a new national dataset tracking the locations, completion dates, and characteristics of over 1 million public housing units built between 1935 and 1973, which I link to neighborhood-level data from 1930 to 2010.
 I document that public housing projects were systematically targeted towards initially poorer, more populated neighborhoods with higher Black population shares, reflecting the program's slum clearance goals and racialized site selection politics.
@@ -25,7 +25,7 @@ These findings demonstrate that mid-century public housing, despite intentions o
 
 [**Taming the Growth Machine: The Long-Run Consequences of Federal Urban Planning Assistance**](/papers/urban_planning_assistance/draft.pdf) *(with [Tianfang Cui](https://www.tom-cui.com/))* [[Online Appendix]](/papers/urban_planning_assistance/appendix.pdf)
 <details>
-  <summary style="color:darkblue;"><strong>Abstract (click to expand)</strong></summary>
+  <summary><strong>Abstract (click to expand)</strong></summary>
 We study how the federal Urban Planning Assistance Program, which subsidized growing communities in the 1960s to hire urban planners to draft land-use plans, affected housing supply.
 Using newly digitized records merged with panel data across municipalities on housing and zoning outcomes, we exploit eligibility thresholds and capacity to approve funds across state agencies to identify effects.
 Planning assistance caused municipalities to build 20% fewer housing units per decade over the 50 years that followed.
@@ -40,7 +40,7 @@ These findings suggest that federal intervention in planning helped institutiona
 
 [**Does Strengthening Rent Control Reduce Housing Quality? Evidence from New York City**](/papers/rent_control_quality/hstpa_investment.pdf)
 <details>
-  <summary style="color:darkblue;"><strong>Abstract (click to expand)</strong></summary>
+  <summary><strong>Abstract (click to expand)</strong></summary>
 This paper studies whether strengthening rent control reduces housing quality. I study New York's 2019 Housing Stability and Tenant Protection Act (HSTPA), which eliminated vacancy decontrol and sharply reduced landlords' ability to recover capital costs through rent increases. Using building-level panel data on housing code violations, tenant complaints, and building permits in a difference-in-differences design, I estimate the effect of HSTPA on maintenance and investment behavior. I find that housing quality declined after HSTPA: immediately hazardous violations increased by 37%, or approximately 23,000 additional violations per year, tenant complaints increased by 12%, and violations took 34% longer to resolve. Building permit activity also declined by 27%. These effects are sharply unequal: hazardous violations increased three to four times more in lower-income and predominantly non-white neighborhoods. These findings provide causal evidence that landlords reduced both routine maintenance and capital investment in response, with the costs falling disproportionately on the communities rent control is intended to protect.
 </details>
 
@@ -60,7 +60,7 @@ This paper studies whether strengthening rent control reduces housing quality. I
 *(with Carol Bertaut and Stephanie Curcuru)*  
 *Journal of Accounting and Finance*, 2021
 <details>
-  <summary style="color:darkblue;"><strong>Abstract (click to expand)</strong></summary>
+  <summary><strong>Abstract (click to expand)</strong></summary>
 The growing use of low-tax jurisdictions as locations for firm headquarters, proliferation of offshore
 financing vehicles, and growing size, number, and geographic diversity of multinational firms have clouded
 the view of capital flows and investor exposures from standard sources such as the IMF Balance of
@@ -81,6 +81,6 @@ emerging markets.
 *(with Carol Bertaut and Stephanie Curcuru)*  
 *FEDS Notes*, September 2019
 <details>
-  <summary style="color:darkblue;"><strong>Abstract (click to expand)</strong></summary>
+  <summary><strong>Abstract (click to expand)</strong></summary>
 This paper documents how residence-based portfolio statistics increasingly misrepresent true economic exposures in global capital markets due to the growing role of multinational firms, offshore financial centers, and investment funds. Using security-level data from the U.S. Treasury International Capital system, we reallocate U.S. cross-border portfolio holdings from a legal-residence basis to a nationality (economic exposure) basis. We show that nearly 30% of U.S. foreign portfolio investments are misclassified under standard statistics, with major implications for understanding U.S. exposures to emerging markets, interpreting capital flow volatility, and assessing the effectiveness of capital controls. Our findings suggest that traditional balance-of-payments metrics significantly understate the true global financial linkages between countries.
 </details>
