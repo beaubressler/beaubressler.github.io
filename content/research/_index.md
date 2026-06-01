@@ -8,15 +8,14 @@ description: "Working papers, work in progress, and publications by Beau Bressle
 [**Building Segregation: The Long-Run Neighborhood Effects of American Public Housing**](/papers/public_housing_neighborhoods/jmp.pdf) **(Job Market Paper)**
 <details>
   <summary><strong>Abstract (click to expand)</strong></summary>
-This paper studies the long-term neighborhood effects of the American public housing program, one of the largest and most controversial American urban policies of the 20th century.
+This paper studies the long-term neighborhood effects of the construction of mid-century American public housing.
 I construct a new national dataset tracking the locations, completion dates, and characteristics of over 1 million public housing units built between 1935 and 1973, which I link to neighborhood-level data from 1930 to 2010.
-I document that public housing projects were systematically targeted towards initially poorer, more populated neighborhoods with higher Black population shares, reflecting the program's slum clearance goals and racialized site selection politics.
-Using a stacked matched difference-in-differences approach, I estimate causal effects of public housing construction on neighborhood change by comparing treated neighborhoods to matched control areas within the same county based on pre-treatment characteristics that predict placement.
-I find that public housing construction caused large, persistent increases in Black population shares and substantial declines in median incomes and rents within project neighborhoods.
-Geographic spillovers to nearby neighborhoods were modest, characterized by small increases in Black population shares driven primarily by white population decline, alongside small declines in median incomes.
-I find evidence consistent with neighborhood tipping dynamics: neighborhoods with initial Black shares in a plausible tipping range experienced substantial white population outflows.
-Finally, linking to intergenerational mobility data, I show that children from low-income families who grew up in public housing neighborhoods experienced significantly lower rates of upward mobility than those in comparable control areas.
-These findings demonstrate that mid-century public housing, despite intentions of slum clearance and revitalization, reinforced existing patterns of racial and economic segregation with lasting consequences for economic opportunity.
+I document that public housing projects were systematically targeted toward poorer, more populous neighborhoods with higher Black population shares, consistent with the program's slum clearance goals and racialized site selection politics.
+Using a stacked matched difference-in-differences design, I find that public housing construction caused large, persistent increases in Black population shares and substantial declines in median incomes and rents.
+Geographic spillovers to nearby neighborhoods were modest: Black population shares increased slightly, driven primarily by white population decline rather than Black inflows.
+I find evidence consistent with neighborhood tipping: neighborhoods with initially moderate Black shares experienced substantial white population outflows.
+Finally, linking to intergenerational mobility data, I show that children from low-income families who grew up in tracts containing public housing experienced significantly lower rates of upward mobility than those in comparable control areas.
+These findings demonstrate that mid-century public housing, despite intentions of neighborhood revitalization, reinforced existing patterns of racial and economic segregation with lasting consequences for economic opportunity.
 </details>
 
 **Featured In:** [Marginal Revolution](https://marginalrevolution.com/marginalrevolution/2025/11/public-housing-and-economic-opportunity.html)
@@ -31,7 +30,7 @@ We digitize program records and link them to a municipality-level panel on housi
 We identify causal effects using variation in program eligibility and differences in state agencies' capacity to approve funding.
 Planning assistance caused municipalities to build 20% fewer housing units per decade over the 50 years that followed.
 Regulatory innovation steered development in assisted areas away from apartments and towards larger single-family homes.
-Drawing on text data from newspaper articles that cover local regulation and development politics, we show that recipients since the 1980s placed greater burden on developers to fund local amenities.
+Drawing on text data from newspaper articles that cover local regulation and development politics, we show that recipients placed a greater burden on developers to fund local amenities since the 1980s.
 These findings demonstrate that subsidizing planning expertise under decentralized land-use authority generated durable market frictions, with lasting consequences for national housing affordability.
 </details>
 
@@ -42,7 +41,7 @@ These findings demonstrate that subsidizing planning expertise under decentraliz
 [**Does Strengthening Rent Control Reduce Housing Quality? Evidence from New York City**](/papers/rent_control_quality/hstpa_investment.pdf)
 <details>
   <summary><strong>Abstract (click to expand)</strong></summary>
-This paper studies whether strengthening rent control reduces housing quality. I study New York's 2019 Housing Stability and Tenant Protection Act (HSTPA), which eliminated vacancy decontrol and sharply reduced landlords' ability to recover capital costs through rent increases. Using building-level panel data on housing code violations, tenant complaints, and building permits in a difference-in-differences design, I estimate the effect of HSTPA on maintenance and investment behavior. I find that housing quality declined after HSTPA: immediately hazardous violations increased by 37%, or approximately 23,000 additional violations per year, tenant complaints increased by 12%, and violations took 34% longer to resolve. Building permit activity also declined by 27%. These effects are sharply unequal: hazardous violations increased three to four times more in lower-income and predominantly non-white neighborhoods. These findings provide causal evidence that landlords reduced both routine maintenance and capital investment in response, with the costs falling disproportionately on the communities rent control is intended to protect.
+This paper studies how New York's 2019 Housing Stability and Tenant Protection Act (HSTPA) affected housing quality and investment. HSTPA eliminated vacancy decontrol and sharply limited rent increases for capital improvements, weakening landlords' incentives to invest in rent-stabilized buildings. Using building-level panel data on housing code violations, tenant complaints, and building permits in a difference-in-differences design, I find that HSTPA reduced housing quality and investment: immediately hazardous violations increased by 36%, or approximately 23,000 additional violations per year, tenant complaints increased by 13%, and building permit activity declined by 25%. These effects are sharply unequal: immediately hazardous violations increased around three to four times more in lower-income neighborhoods and neighborhoods with higher non-white population shares. These results provide new evidence on the maintenance, investment, and distributional effects of modern rent regulation.
 </details>
 
 ---
