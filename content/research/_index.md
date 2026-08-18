@@ -1,6 +1,6 @@
 ---
 title: "Research"
-description: "Working papers, work in progress, and publications by Beau Bressler on housing, urban policy, land use regulation, and economic history."
+description: "Working papers and publications by Beau Bressler on housing, urban policy, land use regulation, and economic history."
 ---
 
 ## Working Papers
@@ -46,7 +46,7 @@ This paper studies how New York's 2019 Housing Stability and Tenant Protection A
 
 ---
 
-## Work in Progress
+## Resting Projects
 
 **The Effects of the H-1B Program on Small Firms: Evidence From Visa Lotteries** *(with Giovanni Peri, Kevin Shih, Parag Mahajan, and Nicolas Morales)*
 

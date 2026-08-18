@@ -27,7 +27,7 @@ menu:
 
 params:
   googleAnalyticsID: G-4T9LT79JN5
-  description: "Beau Bressler - PhD candidate in Economics at UC Davis specializing in urban economics, economic history, and public economics"
+  description: "Beau Bressler - Postdoctoral Associate at Yale's Institution for Social and Policy Studies specializing in urban economics, economic history, and public economics"
   author: "Beau Bressler"
   images:
     - /picture.jpg
@@ -57,7 +57,7 @@ params:
   profileMode:
     enabled: true
     title: "Beau Bressler"
-    subtitle: "Hello! I am a Ph.D. candidate in the <a href=\"https://economics.ucdavis.edu/\" target=\"_blank\">Department of Economics</a> at the University of California, Davis. I work on topics related to housing, urban policy, and land use regulation, both historically and today.<br><br>I will join Yale's Institution for Social and Policy Studies (ISPS) as a Postdoctoral Associate in summer 2026.<br><br>My <strong>job market paper</strong> studies the long-run effects of the American mid-century public housing program on neighborhoods using a newly constructed national dataset.<br><br>My second chapter, joint with <a href=\"https://www.tom-cui.com/\" target=\"_blank\">Tianfang Cui</a>, examines how the 1960s Urban Planning Assistance Program reduced housing supply and institutionalized exclusionary zoning practices.<br><br>You can contact me at <strong><a href=\"mailto:blbressler@ucdavis.edu\">blbressler@ucdavis.edu</a></strong>."
+    subtitle: "Hello! I am a Postdoctoral Associate at Yale's <a href=\"https://isps.yale.edu/\" target=\"_blank\">Institution for Social and Policy Studies</a>, where I am part of the <a href=\"https://isps.yale.edu/government-effectiveness-working-group\" target=\"_blank\">Government Effectiveness Working Group</a>. I work on topics related to housing, urban policy, and land use regulation, both historically and today.<br><br>I received my Ph.D. in Economics from the <a href=\"https://economics.ucdavis.edu/\" target=\"_blank\">University of California, Davis</a> in 2026.<br><br>I am currently one of three finalists for the Economic History Association's <a href=\"https://eh.net/nevins-prize/\" target=\"_blank\">Allan Nevins Prize</a> for the best dissertation in U.S. or Canadian economic history.<br><br>My <strong>job market paper</strong> studies the long-run effects of the American mid-century public housing program on neighborhoods using a newly constructed national dataset.<br><br>My second chapter, joint with <a href=\"https://www.tom-cui.com/\" target=\"_blank\">Tianfang Cui</a>, examines how the 1960s Urban Planning Assistance Program reduced housing supply and institutionalized exclusionary zoning practices.<br><br>You can contact me at <strong><a href=\"mailto:beau.bressler@yale.edu\">beau.bressler@yale.edu</a></strong>."
     imageUrl: "picture.jpg"
     imageWidth: 350
     imageHeight: 467
@@ -73,7 +73,7 @@ params:
 
   assets:
     disableScrollBarStyle: true
-    apple_touch_icon: apple-touch-icon.jpg
+    apple_touch_icon: apple-touch-icon.png
 
   cover:
     hiddenInList: false
