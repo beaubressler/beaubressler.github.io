@@ -46,14 +46,6 @@ This paper studies how New York's 2019 Housing Stability and Tenant Protection A
 
 ---
 
-## Resting Projects
-
-**The Effects of the H-1B Program on Small Firms: Evidence From Visa Lotteries** *(with Giovanni Peri, Kevin Shih, Parag Mahajan, and Nicolas Morales)*
-
-**Trade, Protection, and Structural Transformation in the Late 19th Century United States**
-
----
-
 ## Pre-PhD Publications
 
 [**Globalization and the Reach of Multinationals: Implications for Portfolio Exposures, Capital Flows, and Home Bias**](https://doi.org/10.33423/jaf.v21i5.4738)
