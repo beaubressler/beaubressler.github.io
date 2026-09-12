@@ -5,17 +5,16 @@ description: "Working papers and publications by Beau Bressler on housing, urban
 
 ## Working Papers
 
-[**Building Segregation: The Long-Run Neighborhood Effects of American Public Housing**](/papers/public_housing_neighborhoods/jmp.pdf) **(Job Market Paper)**
+[**Building Segregation: The Long-Run Neighborhood Effects of American Public Housing**](/papers/public_housing_neighborhoods/jmp.pdf)
 <details>
   <summary><strong>Abstract (click to expand)</strong></summary>
 This paper studies the long-term neighborhood effects of the construction of mid-century American public housing.
-I construct a new national dataset tracking the locations, completion dates, and characteristics of over 1 million public housing units built between 1935 and 1973, which I link to neighborhood-level data from 1930 to 2010.
-I document that public housing projects were systematically targeted toward poorer, more populous neighborhoods with higher Black population shares, consistent with the program's slum clearance goals and racialized site selection politics.
-Using a stacked matched difference-in-differences design, I find that public housing construction caused large, persistent increases in Black population shares and substantial declines in median incomes and rents.
-Geographic spillovers to nearby neighborhoods were modest: Black population shares increased slightly, driven primarily by white population decline rather than Black inflows.
-I find evidence consistent with neighborhood tipping: neighborhoods with initially moderate Black shares experienced substantial white population outflows.
-Finally, linking to intergenerational mobility data, I show that children from low-income families who grew up in tracts containing public housing experienced significantly lower rates of upward mobility than those in comparable control areas.
-These findings demonstrate that mid-century public housing, despite intentions of neighborhood revitalization, reinforced existing patterns of racial and economic segregation with lasting consequences for economic opportunity.
+I construct a new national dataset containing the locations, completion dates, and characteristics of the near-universe of public housing projects built between 1935 and 1973, which I link to neighborhood-level data from 1930 to 2010.
+I document that public housing projects were systematically targeted toward poorer neighborhoods with a higher share of Black residents, consistent with the program's slum clearance goals and racialized site selection politics.
+Using matched difference-in-differences designs, I find that public housing construction caused large, persistent increases in Black population shares and substantial declines in median incomes and rents in recipient neighborhoods.
+Public housing construction also appears to have caused racial transition in surrounding neighborhoods, though these estimates are sensitive to the comparison group.
+Recipient neighborhoods also exhibited lower rates of upward mobility and higher incarceration rates for low-income children who grew up in these neighborhoods.
+These findings demonstrate that mid-century public housing, despite intentions of neighborhood revitalization, reinforced existing patterns of racial and economic segregation.
 </details>
 
 **Featured In:** [Marginal Revolution](https://marginalrevolution.com/marginalrevolution/2025/11/public-housing-and-economic-opportunity.html)
