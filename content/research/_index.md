@@ -5,7 +5,7 @@ description: "Working papers and publications by Beau Bressler on housing, urban
 
 ## Working Papers
 
-[**Building Segregation: The Long-Run Neighborhood Effects of American Public Housing**](/papers/public_housing_neighborhoods/jmp.pdf)
+[**Building Segregation: The Long-Run Neighborhood Effects of American Public Housing**](/papers/public_housing_neighborhoods/jmp.pdf) *(revisions in progress)*
 <details>
   <summary><strong>Abstract (click to expand)</strong></summary>
 This paper studies the long-term neighborhood effects of the construction of mid-century American public housing.
