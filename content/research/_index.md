@@ -37,7 +37,7 @@ These findings demonstrate that subsidizing planning expertise under decentraliz
 
 <br>
 
-**Does Strengthening Rent Control Reduce Housing Quality? Evidence from New York City** *(revisions in progress; draft available upon request)*
+[**Does Tightening Rent Regulation Reduce Housing Quality? Evidence from New York City**](/papers/rent_control_quality/hstpa_investment.pdf)
 <details>
   <summary><strong>Abstract (click to expand)</strong></summary>
 This paper studies how New York's 2019 Housing Stability and Tenant Protection Act (HSTPA) affected housing quality and investment.
