@@ -54,6 +54,12 @@ These findings suggest that cost-recovery channels are critical for sustaining h
 
 ---
 
+## Work in Progress
+
+**The Effects of Public Housing on Families** *(with [Laura Weiwu](https://lauraweiwu.com/) and Dani Sandler)*
+
+---
+
 ## Pre-PhD Publications
 
 [**Globalization and the Reach of Multinationals: Implications for Portfolio Exposures, Capital Flows, and Home Bias**](https://doi.org/10.33423/jaf.v21i5.4738)
