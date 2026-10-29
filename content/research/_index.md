@@ -8,12 +8,14 @@ description: "Working papers and publications by Beau Bressler on housing, urban
 [**Building Segregation: The Long-Run Neighborhood Effects of American Public Housing**](/papers/public_housing_neighborhoods/jmp.pdf) *(revisions in progress)*
 <details>
   <summary><strong>Abstract (click to expand)</strong></summary>
-This paper studies the long-term neighborhood effects of the construction of mid-century American public housing.
+This paper studies the neighborhood effects of mid-century American public housing.
 I construct a new national dataset containing the locations, completion dates, and characteristics of the near-universe of public housing projects built between 1935 and 1973, which I link to neighborhood-level data from 1930 to 2010.
 I document that public housing projects were systematically targeted toward poorer neighborhoods with a higher share of Black residents, consistent with the program's slum clearance goals and racialized site selection politics.
 Using matched difference-in-differences designs, I find that public housing construction caused large, persistent increases in Black population shares and substantial declines in median incomes and rents in recipient neighborhoods.
-Public housing construction also appears to have caused racial transition in surrounding neighborhoods, though these estimates are sensitive to the comparison group.
-Recipient neighborhoods also exhibited lower rates of upward mobility and higher incarceration rates for low-income children who grew up in these neighborhoods.
+Surrounding neighborhoods within one kilometer also experienced racial transition driven by white population outflows, with limited evidence of economic deterioration.
+In recipient neighborhoods, the effects are driven particularly by early family projects, opened between 1940 and 1960.
+Among early projects, white residents left recipient and nearby neighborhoods only around projects whose tenants were or became majority Black.
+Low-income children who grew up in recipient and nearby neighborhoods experienced lower upward mobility and higher adult incarceration rates, gaps that shrink by more than half once 1980 neighborhood composition is held fixed.
 These findings demonstrate that mid-century public housing, despite intentions of neighborhood revitalization, reinforced existing patterns of racial and economic segregation.
 </details>
 
