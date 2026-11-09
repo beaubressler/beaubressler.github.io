@@ -56,7 +56,7 @@ These findings suggest that cost-recovery channels are critical for sustaining h
 
 ## Work in Progress
 
-**The Effects of Public Housing on Families** *(with [Laura Weiwu](https://lauraweiwu.com/) and Dani Sandler)*
+**The Effects of Public Housing on Families** *(with [Laura Weiwu](https://lauraweiwu.com/) and [Dani Sandler](https://www.dhsandler.com/))*
 
 ---
 
