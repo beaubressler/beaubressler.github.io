@@ -49,6 +49,8 @@ Classifying the text of 149,130 building alteration filings with a large languag
 These results suggest that cost-recovery channels are critical for maintaining housing quality under price controls.
 </details>
 
+**Featured In:** [UCLA Housing Voice](https://uclahousingvoice.substack.com/p/ucla-housing-voice-reading-list-11426)
+
 ---
 
 ## Work in Progress
