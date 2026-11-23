@@ -39,17 +39,14 @@ These findings demonstrate that subsidizing planning expertise under decentraliz
 
 <br>
 
-[**Does Tightening Rent Regulation Reduce Housing Quality? Evidence from New York City**](/papers/rent_control_quality/hstpa_investment.pdf) *(new version: October 2026)*
+[**Rent Regulation and Housing Quality: Evidence from New York City**](/papers/rent_control_quality/hstpa_investment.pdf) *(new version: November 2026)*
 <details>
   <summary><strong>Abstract (click to expand)</strong></summary>
-Rent regulations involve a fundamental trade-off between protecting tenants against price shocks and preserving landlords' incentives to maintain housing quality.
-I study how dismantling these incentives affects housing quality and capital investment, exploiting New York's 2019 Housing Stability and Tenant Protection Act (HSTPA)—a landmark reform that sharply curtailed cost recovery for property improvements.
-Using a difference-in-differences design and building-level data on code violations, tenant complaints, and building permit filings, I find that tightening rent regulation led to substantial deterioration in physical living conditions.
-Immediately hazardous code violations rise by 25% and tenant complaints increase by 8%.
-This deterioration is amplified among highly leveraged properties and falls disproportionately on low-income and minority neighborhoods.
-To trace the mechanisms behind this decline, I use a large language model to classify text descriptions of over 150,000 building alteration filings.
-I show that landlords sharply pull back on apartment renovations (−46.3%), while shifting toward regulatory arbitrage, increasing the number of apartment combinations that allowed owners to reset regulated rents.
-These findings suggest that cost-recovery channels are critical for sustaining housing quality under price controls, particularly for vulnerable tenants.
+Rent regulation trades off protecting tenants against rent increases and preserving landlords' incentives to maintain housing quality.
+I study how dismantling these incentives affects housing quality and capital investment by exploiting New York's 2019 Housing Stability and Tenant Protection Act—a landmark reform that sharply curtailed cost recovery for property improvements.
+Using building-level administrative data in a difference-in-differences design, I find that immediately hazardous code violations rise by 20% and tenant complaints by 12%.
+Classifying the text of 149,130 building alteration filings with a large language model, I show that apartment renovations fall by 41.0%, while apartment combinations that reset regulated rents rise by 215.8%.
+These results suggest that cost-recovery channels are critical for maintaining housing quality under price controls.
 </details>
 
 ---
