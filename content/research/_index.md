@@ -39,7 +39,7 @@ These findings demonstrate that subsidizing planning expertise under decentraliz
 
 <br>
 
-[**Rent Regulation and Housing Quality: Evidence from New York City**](/papers/rent_control_quality/hstpa_investment.pdf) *(new version: November 2026)*
+[**Rent Regulation and Housing Quality: Evidence from New York City**](/papers/rent_control_quality/hstpa_investment.pdf) *(revisions in progress)*
 <details>
   <summary><strong>Abstract (click to expand)</strong></summary>
 Rent regulation trades off protecting tenants against rent increases and preserving landlords' incentives to maintain housing quality.
