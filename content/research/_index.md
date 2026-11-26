@@ -39,17 +39,7 @@ These findings demonstrate that subsidizing planning expertise under decentraliz
 
 <br>
 
-[**Rent Regulation and Housing Quality: Evidence from New York City**](/papers/rent_control_quality/hstpa_investment.pdf) *(revisions in progress)*
-<details>
-  <summary><strong>Abstract (click to expand)</strong></summary>
-Rent regulation trades off protecting tenants against rent increases and preserving landlords' incentives to maintain housing quality.
-I study how dismantling these incentives affects housing quality and capital investment by exploiting New York's 2019 Housing Stability and Tenant Protection Act—a landmark reform that sharply curtailed cost recovery for property improvements.
-Using building-level administrative data in a difference-in-differences design, I find that immediately hazardous code violations rise by 20% and tenant complaints by 12%.
-Classifying the text of 149,130 building alteration filings with a large language model, I show that apartment renovations fall by 41.0%, while apartment combinations that reset regulated rents rise by 215.8%.
-These results suggest that cost-recovery channels are critical for maintaining housing quality under price controls.
-</details>
-
-**Featured In:** [UCLA Housing Voice](https://uclahousingvoice.substack.com/p/ucla-housing-voice-reading-list-11426)
+**Rent Regulation and Housing Quality: Evidence from New York City** *(revisions in progress)*
 
 ---
 
